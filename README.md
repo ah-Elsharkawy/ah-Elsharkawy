@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 - 💻 Currently, I'm an ITI 9-Month Trainee at Professional Development & BI track, specializing in C# and .NET API development..
-- ✍️ Also, I'm working as a part time NodeJs Developer, utilizing my expertise in Js and express and Nest to develop robust web applications.
+- ✍️ Also, I'm working as a part time NodeJs Developer, utilizing my expertise in Js, express and NestJs to develop robust web applications.
 - 📫 How to reach me: &nbsp; ah.elsharkawye@gmail.com
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahelsharkawy/)
 
