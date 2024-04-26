@@ -1,5 +1,5 @@
-<div align="center" style="font-size: 20 px"">  <b>Hi there 👋, I'm Ahmed Elsharkawy</b> </div>
-<div align="center" style="font-size: 20 px"">  <b>FullStack web Developer</b> </div>
+<div align="center">  <b>Hi there 👋, I'm Ahmed Elsharkawy</b> </div>
+<div align="center">  <b>FullStack web Developer</b> </div>
 
 ---
 
